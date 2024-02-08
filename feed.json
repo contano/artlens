@@ -5,6 +5,7 @@
     "home_page_url": "https://artlens.contano.xyz",
     "feed_url": "https://artlens.contano.xyz/feed.json",
     "user_comment": "",
+    "icon": "https://artlens.contano.xyz/media/website/logo.jpg",
     "author": {
         "name": "Contano"
     },
